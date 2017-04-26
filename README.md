@@ -1,6 +1,6 @@
 # npmdoc-trumpet
 
-#### api documentation for  [trumpet (v1.7.2)](https://github.com/substack/node-trumpet#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-trumpet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trumpet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trumpet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trumpet)
+#### basic api documentation for  [trumpet (v1.7.2)](https://github.com/substack/node-trumpet#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-trumpet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trumpet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trumpet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trumpet)
 
 #### parse and transform streaming html using css selectors
 
@@ -76,7 +76,8 @@
     "scripts": {
         "test": "tape test/*.js"
     },
-    "version": "1.7.2"
+    "version": "1.7.2",
+    "bin": {}
 }
 ```
 
